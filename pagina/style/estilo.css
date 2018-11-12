@@ -1,0 +1,163 @@
+
+body{
+    margin:0px 0px 0px 0px;
+}
+
+
+.header {  height: 320px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.caja1 {width: 100%; 
+    height: 260px;  
+    background:#4e444c; 
+    text-align: center;
+    
+}
+
+h1.titulo {
+    font: 28px roboto;
+    color: #fff;
+    padding-top: 12px;
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+    padding-top: 32px;
+}
+.logo{ 
+    margin: auto;
+    
+}
+
+.logo img {
+    width: 120px;
+    height: 120px;
+    background-position: center;
+    display: block;
+    margin: auto;
+}
+
+.banner {width: 100%; 
+    height: 30%;  
+    background: #cfcece; 
+    text-align: center;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.side-bar {width: 30%; 
+    height: 300px;
+    background: #fff;
+    float:left;
+    
+}
+
+.side-bar p {    font: 16px roboto;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 16px;
+    margin-left: 44px;
+    padding-bottom: 18px;
+}    
+
+.article {width: 65%; 
+    height: 300px;
+    background: #9e869e;
+    float:right;
+    
+}
+
+.article h4 {font: 16px roboto;
+    letter-spacing: 2px;
+    text-align: left;
+    padding-top: 12px;
+    margin-left: 107px;
+    padding-bottom: 0px;
+    color: #fff;
+    
+}
+
+.footer {width: 100%; 
+    height: 300px;  
+    background: #231b23; 
+    text-align: center;
+    float:right;
+   
+}
+
+.topnav {
+    
+    margin-left: 17px;
+}
+.topnav a { text-align: center;
+    list-style:none;
+    padding: 0;
+    margin-top: 4px;
+    color: #fff;
+    letter-spacing: 1px;
+    font: 12px roboto;
+    display: inline;
+    margin-right: 14px;
+    text-decoration: none;
+     
+}
+
+.h1 { font: 30px roboto;
+}
+
+.servicios ul li {
+    font: 12px roboto;
+    text-align: center;
+    list-style: none;
+    line-height: 2.5;
+}
+
+.descripcion p {
+    font: 12px roboto;
+    color: #fff;
+    line-height: 1.8;
+    text-align: left;
+    margin: auto;
+    width: 600px;
+}
+
+.info h3 {
+    font: 12px roboto;
+    color: #fff;
+    text-align: center;
+    margin-top: 33px;
+}
+
+.footer .lista ul  {
+    width: 50%;
+}
+
+.footer .lista ul  {
+    font: 12px roboto;
+    text-align: left;
+    list-style: none;
+    line-height: 1.8;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 80px;
+    margin-top: 50px;
+   
+}
+
+p.derechos {
+    font: 12px roboto;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    margin-right: 0;
+    margin-top:36px;
+}    
+
+
+
+
+    
+ 
